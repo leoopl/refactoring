@@ -14,6 +14,10 @@ Singleton -
            
            Usei o padrão na classe "Cartão", onde também fiz as modificações, pois o sistema foi criado para apenas ultilizar um cartão por usuario.
            
+Strategy - 
+            
+           Definir uma família de algoritmos, encapsular cada uma delas e torná-las intercambiáveis. Strategy permite que o algoritmo varie independentemente dos clientes que o utilizam. 
+           
 Como execultar - 
 
-            Os dois, seja o refatorado e ou não refatorado, precisam apenas serem execultados em sua IDE.
+            Os dois, seja o refatorado e o não refatorado, precisam apenas serem execultados em sua IDE.
