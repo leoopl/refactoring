@@ -14,3 +14,6 @@ Singleton -
            
            Usei o padrão na classe "Cartão", onde também fiz as modificações, pois o sistema foi criado para apenas ultilizar um cartão por usuario.
            
+Como execultar - 
+
+            Os dois, seja o refatorado e ou não refatorado, precisam apenas serem execultados em sua IDE.
